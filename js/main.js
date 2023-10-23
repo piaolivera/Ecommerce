@@ -35,7 +35,7 @@ const productos= [
     {    
         id: "Monitor-01",
         titulo: "Monitor 01",
-        imagen: "./img/Accesorios/monitor samsung.png",
+        imagen: "./img/Accesorios/monitor samsung.webp}",
         categoria: {
             nombre: "Monitor Samsung",
             id: "accesorios"
